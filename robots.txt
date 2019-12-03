@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /project.mobirise
+Sitemap: https://oimo.kg/sitemap.xml
+Host*: https://oimo.kg
